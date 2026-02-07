@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/SPIDROSH/Skibididib/refs/heads/main/newraf.txt'))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/7BxpZ2jN6KNbYrYV/raw", true))()
